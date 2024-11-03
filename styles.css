@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-    background-image: url('images/cont.jpg');
+    background-image: url('cont.jpg');
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: 50%;
